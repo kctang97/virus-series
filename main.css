@@ -55,7 +55,7 @@ img {
   padding: 0;
   position: absolute;
   background-repeat: no-repeat;
-  background-image: linear-gradient(to right,blue 0%,red 100%),url(image/chain.jpg);
+  background-image: linear-gradient(to right,blue 0%,red 100%),url(assets/images/chain.jpg);
   background-blend-mode:screen;
 }
 
